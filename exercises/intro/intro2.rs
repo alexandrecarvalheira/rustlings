@@ -5,8 +5,7 @@
 // Execute `rustlings hint intro2` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
-
 fn main() {
-    println!("Hello {}!");
+    let int32 = 32;
+    println!("Hello {}!", int32);
 }
